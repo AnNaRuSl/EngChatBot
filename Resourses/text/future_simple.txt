@@ -1,0 +1,40 @@
+key.choose.about.what_is=Что такое Future Simple
+key.choose.about.make_sentence=Как образуется Future Simple
+key.choose.about.to_be=Глагол "to be"
+key.choose.about.exersises=Упражнения
+key.choose.about.exit=<--- Назад
+
+key.choose.sentences_types.positive=Положительное (+)
+key.choose.sentences_types.negative=Отрицательное (-)
+key.choose.sentences_types.question=Вопросительное (?)
+key.choose.sentences_types.exit=<--- Назад
+
+key.choose.to_be.usage=Использование глагола "to be" в Future Simple
+key.choose.to_be.make_sentence=Как образуются предложения с глаголом "to be" в Future Simple
+key.choose.to_be.exit=<--- Назад
+
+
+
+////////////////// Make Sentence //////////////////
+
+key.make_sentence.common.positive=Утвердительные предложения в Future Simple образуются по формуле: Подлежащее + Вспомагательный глагол + V1(V - Глагол, 1 - 1я форма)#Например: I will drive a car. (Я поведу машину.)##У вспомогательного глагола "will" форма НЕ меняется в независимости от лица и числа.#Например: He will arrive soon. (Он скоро приедет.)
+
+key.make_sentence.common.negative=Отрицательные предложения в Future Simple образуются по формуле: Подлежащее + Вспомагательный глагол + Частичка "not" + V1(V - Глагол, 1 - 1я форма)#Например: I will not like apples. Или: I won't like apples. (Я не буду любить яблоки.)#Как мы уже увидели "will not" можно сократить.##У вспомогательного глагола "will" форма НЕ меняется в независимости от лица и числа.#Например: He will nоt (won't) like bananas. Или: He doesn't like bananas. (Он не будет любить бананы.)
+
+key.make_sentence.common.question=Вопросительные предложения в Present Simple образуются по формуле: Вспомагательный глагол + Подлежащее + V1(V - Глагол, 1 - 1я форма)#Например: Will you arrive soon? (Ты скоро приедешь?)##У вспомогательного глагола "will" форма НЕ меняется в независимости от лица и числа.#Например: Will you arrive tomorrow? (Он приедет завтра?)
+
+
+//To Be
+key.make_sentence.to_be.positive=Глагол to be в Future Simple - "will be"#Утвердительные предложения с глаголом "to be" в Future Simple образуются по формуле: Подлежащее + to be + Второстипенные члены предложения#Например: I will be happy. (Я буду весёлым.); He will be sad. (Oн будет грустным.);
+
+key.make_sentence.to_be.negative=Глагол to be в Future Simple - "will be"#Отрицательные предложения с глаголом "to be" в Future Simple образуются по формуле: Подлежащее + will + Частичка "not" + be + Второстипенные члены предложения#Например: I will not be here. (Я не буду здесь.); He won't be sad. (Oн не будет грустным.); They won't be lucky. (Им не повезёт.);#Как мы уже увидели "will" можно сократить.
+
+key.make_sentence.to_be.question=Глагол to be в Future Simple - "will be"#Вопросительные предложения с глаголом "to be" в Present Simple образуются по формуле: will + Подлежащее + be + Второстипенные члены предложения#Например: Will I be happy? (Буду ли я весёлым?); Will he be here tomorrow? (Будет ли он здесь завтра?);
+
+
+
+////////////////// Usage//////////////////
+
+key.usage.general=Future Simple - это простое будущее время, ссылающееся на действие, которое совершится в неопределенном или отдаленном будущем.##Когда используется Future Simple?#Future Simple используется чтобы высказать предположения о будущем или о событиях, которые точно произойдут и на которые мы не можем повлиять. А также, для обещаний, угроз, предупреждений и предостережений.
+
+key.usage.to_be=Глагол "to be" на русский переводится как - "быть, есть".#Это самое "есть" не произносится в русском, но подразумевается.#Например: "It is a book – Это (есть) книга".##В Future Simple существует лишь одно спряжение глагола "to be": "will be"!

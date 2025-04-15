@@ -1,0 +1,4 @@
+key.lesson.present_simple=Present Simple
+key.lesson.present_continuous=Present Continuous
+key.lesson.future_simple=Future Simple
+key.lesson.exit=<--- Выход
