@@ -1,2 +1,2 @@
-%~dp0main.py
+main.py
 pause
